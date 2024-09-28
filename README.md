@@ -12,8 +12,8 @@ calculator.py takes an arithmetic expression built from numbers, parentheses, an
 High-level, detailed pverview of the methods and functions are provided in the file specs.md. 
 
 ## Instructions to run:
-python3 parentheses.py "<string containing parenthesis>"
-python3 calculator.py "<string of mathematical equation>"
+python3 parentheses.py "\<string containing parenthesis>"  
+python3 calculator.py "\<string of mathematical equation>"
 
 ## Sources:
 https://www.tutorialspoint.com/python/python_command_line_arguments.htm
