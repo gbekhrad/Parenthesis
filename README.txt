@@ -1,9 +1,9 @@
 # Assignment 1
 
-##Gabriella (Gabi) Bekhrad
-##gbekhrad@chapman.edu
-##CPSC 354-03
-##Professor Weinberger
+## Gabriella (Gabi) Bekhrad
+## gbekhrad@chapman.edu
+## CPSC 354-03
+## Professor Weinberger
 
 Overview: 
 
