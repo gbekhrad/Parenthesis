@@ -1,9 +1,11 @@
-Assignment 1
+# Assignment 1
 
-Gabriella (Gabi) Bekhrad
-gbekhrad@chapman.edu
-CPSC 354-03
-Professor Weinberger
+##Gabriella (Gabi) Bekhrad
+##gbekhrad@chapman.edu
+##CPSC 354-03
+##Professor Weinberger
+
+Overview: 
 
 To run: 
 python3 parentheses.py "<string containing parenthesis>"
