@@ -16,8 +16,8 @@ python3 parentheses.py "\<string containing parenthesis>"
 python3 calculator.py "\<string of mathematical equation>"
 
 ## Sources:
-https://www.tutorialspoint.com/python/python_command_line_arguments.htm
-https://www.geeksforgeeks.org/command-line-arguments-in-python/
+https://www.tutorialspoint.com/python/python_command_line_arguments.htm  
+https://www.geeksforgeeks.org/command-line-arguments-in-python/  
 https://www.w3schools.com/python/ref_list_count.asp 
-https://runestone.academy/ns/books/published/fopp/Conditionals/PrecedenceofOperators.html
+https://runestone.academy/ns/books/published/fopp/Conditionals/PrecedenceofOperators.html  
 https://www.datacamp.com/tutorial/exponents-in-python 
