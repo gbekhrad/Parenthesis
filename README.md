@@ -1,12 +1,10 @@
-# Assignment 1
+# Parenthesis
 
 Gabriella (Gabi) Bekhrad  
-gbekhrad@chapman.edu  
-CPSC 354-03  
-Professor Weinberger  
+gabimbek@gmail.com
 
 ## Overview: 
-Assignment 1 contains 2 simple python programs. 
+Repo contains 2 simple python programs. 
 parenthesis.py outputs the string yes if the input is a string with balanced parentheses, and no if it is not.
 calculator.py takes an arithmetic expression built from numbers, parentheses, and operations +, *, ^, and displays the result.
 High-level, detailed pverview of the methods and functions are provided in the file specs.md. 
